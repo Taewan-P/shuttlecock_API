@@ -2,6 +2,7 @@
 ## 한양대학교 ERICA캠퍼스 셔틀버스 API
 
 [![Build Status](http://server.jaram.net:5903/buildStatus/icon?job=shuttlecock-api)](http://server.jaram.net:5903/job/shuttlecock-api/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTaewan-P%2Fshuttlecock_API.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTaewan-P%2Fshuttlecock_API?ref=badge_shield)
 
 
 ### 1. 사용법
@@ -110,3 +111,7 @@ yarn start / node start index.js
 docker build -t shuttle-api .
 docker run -p 3000:3000 -d shuttle-api:latest
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTaewan-P%2Fshuttlecock_API.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTaewan-P%2Fshuttlecock_API?ref=badge_large)
